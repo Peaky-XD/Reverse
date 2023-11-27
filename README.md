@@ -25,3 +25,8 @@ This repository contains encrypted files that can be decrypted through reverse e
 ## Contribution
 
 Contributions are welcome! If you have improvements or suggestions, feel free to create issues or pull requests.
+
+
+![GitHub stars](https://img.shields.io/github/stars/Peaky-XD/Reverse?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Peaky-XD/Reverse?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Peaky-XD/Reverse?style=social)
