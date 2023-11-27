@@ -17,7 +17,7 @@ This repository contains encrypted files that can be decrypted through reverse e
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/[YourUsername]/Reverse.git
+    git clone https://github.com/Peaky-XD/Reverse
     ```
 
 2. Follow the reverse engineering instructions provided by Ahmed-XD to decrypt the files.
